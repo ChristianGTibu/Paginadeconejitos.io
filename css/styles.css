@@ -1,0 +1,21 @@
+#fondo {
+    position: fixed;
+    width: 18cm;
+    height: 24.2cm;
+    background-color: cyan;
+}
+
+
+#bloquepasto1 {
+    margin-top: 6cm;
+    width: 15rem;
+    height: 43rem;
+    background-color: coral;
+}
+
+#bloquepasto2 {
+    margin-top: 20cm;
+    width: 30rem;
+    height: 50rem;
+    background-color: black;
+}
